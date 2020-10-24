@@ -1,2 +1,3 @@
-echo "TOOL NIM UNIV"
-echo "---------√"
+<?php
+echo "Test"
+?>
